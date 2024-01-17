@@ -17,7 +17,7 @@ Estas instrucciones te permitirán obtener una copia del juego en funcionamiento
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/TuUsuario/escape-room-pokemon.git
+   git clone https://github.com/PabloLpzz/escape-room-pokemon.git
    ```
 
 2. Configura tu servidor web para que apunte al directorio del juego.
